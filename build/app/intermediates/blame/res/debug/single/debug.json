@@ -72,6 +72,10 @@
         "source": "/home/kc/.gradle/caches/transforms-2/files-2.1/0a271e99b6771ad4a84318244d532fb7/core-1.0.0/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
     },
     {
+        "merged": "/home/kc/Documents/AndroidProjects/EHR/fend_ehr/build/app/intermediates/res/merged/debug/layout_toast_custom.xml.flat",
+        "source": "/home/kc/Documents/AndroidProjects/EHR/fend_ehr/build/fluttertoast/intermediates/packaged_res/debug/layout/toast_custom.xml"
+    },
+    {
         "merged": "/home/kc/Documents/AndroidProjects/EHR/fend_ehr/build/app/intermediates/res/merged/debug/layout_notification_action_tombstone.xml.flat",
         "source": "/home/kc/.gradle/caches/transforms-2/files-2.1/0a271e99b6771ad4a84318244d532fb7/core-1.0.0/res/layout/notification_action_tombstone.xml"
     },
@@ -106,6 +110,10 @@
     {
         "merged": "/home/kc/Documents/AndroidProjects/EHR/fend_ehr/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
         "source": "/home/kc/.gradle/caches/transforms-2/files-2.1/0a271e99b6771ad4a84318244d532fb7/core-1.0.0/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/home/kc/Documents/AndroidProjects/EHR/fend_ehr/build/app/intermediates/res/merged/debug/drawable_toast_bg.xml.flat",
+        "source": "/home/kc/Documents/AndroidProjects/EHR/fend_ehr/build/fluttertoast/intermediates/packaged_res/debug/drawable/toast_bg.xml"
     },
     {
         "merged": "/home/kc/Documents/AndroidProjects/EHR/fend_ehr/build/app/intermediates/res/merged/debug/layout-v16_notification_template_custom_big.xml.flat",

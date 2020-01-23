@@ -30,6 +30,7 @@ dependencies:
   page_transition: "^1.1.5"
   curved_navigation_bar: ^0.3.1
   rflutter_alert: ^1.0.2
+  fluttertoast: 
 
 
 dev_dependencies:
@@ -55,7 +56,9 @@ flutter:
    - assets/images/password_icon.png
    - assets/images/user_icon.png
    - assets/images/as.png
+   - assets/Teddy.flr
 
+  
   # To add assets to your application, add an assets section, like this:
   # assets:
   #   - images/a_dot_burr.jpeg
@@ -72,11 +75,11 @@ flutter:
   # "family" key with the font family name, and a "fonts" key with a
   # list giving the asset and other descriptors for the font. For
   # example:
-  # fonts:
-  #   - family: Schyler
-  #     fonts:
-  #       - asset: fonts/Schyler-Regular.ttf
-  #       - asset: fonts/Schyler-Italic.ttf
+  fonts:
+    - family: RobotoMedium
+      fonts:
+        - asset: assets/fonts/Roboto-Medium.ttf
+        # - asset: fonts/Schyler-Italic.ttf
   #         style: italic
   #   - family: Trajan Pro
   #     fonts:

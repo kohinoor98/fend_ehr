@@ -1,4 +1,4 @@
-#Sat Jan 18 19:41:38 IST 2020
+#Thu Jan 23 22:10:23 IST 2020
 base.0=/home/kc/Documents/AndroidProjects/EHR/fend_ehr/build/app/intermediates/transforms/r8/release/0/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

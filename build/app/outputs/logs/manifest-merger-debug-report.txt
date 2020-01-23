@@ -5,6 +5,7 @@ INJECTED from /home/kc/Documents/AndroidProjects/EHR/fend_ehr/android/app/src/ma
 INJECTED from /home/kc/Documents/AndroidProjects/EHR/fend_ehr/android/app/src/main/AndroidManifest.xml:1:1-30:12
 INJECTED from /home/kc/Documents/AndroidProjects/EHR/fend_ehr/android/app/src/main/AndroidManifest.xml:1:1-30:12
 MERGED from /home/kc/Documents/AndroidProjects/EHR/fend_ehr/android/app/src/main/AndroidManifest.xml:1:1-30:12
+MERGED from [:fluttertoast] /home/kc/Documents/AndroidProjects/EHR/fend_ehr/build/fluttertoast/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
 MERGED from [:responsive_widgets] /home/kc/Documents/AndroidProjects/EHR/fend_ehr/build/responsive_widgets/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
 MERGED from [:sqflite] /home/kc/Documents/AndroidProjects/EHR/fend_ehr/build/sqflite/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
 MERGED from [:path_provider] /home/kc/Documents/AndroidProjects/EHR/fend_ehr/build/path_provider/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
@@ -96,6 +97,8 @@ uses-sdk
 INJECTED from /home/kc/Documents/AndroidProjects/EHR/fend_ehr/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/kc/Documents/AndroidProjects/EHR/fend_ehr/android/app/src/main/AndroidManifest.xml
 INJECTED from /home/kc/Documents/AndroidProjects/EHR/fend_ehr/android/app/src/main/AndroidManifest.xml
+MERGED from [:fluttertoast] /home/kc/Documents/AndroidProjects/EHR/fend_ehr/build/fluttertoast/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:fluttertoast] /home/kc/Documents/AndroidProjects/EHR/fend_ehr/build/fluttertoast/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:responsive_widgets] /home/kc/Documents/AndroidProjects/EHR/fend_ehr/build/responsive_widgets/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:responsive_widgets] /home/kc/Documents/AndroidProjects/EHR/fend_ehr/build/responsive_widgets/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:sqflite] /home/kc/Documents/AndroidProjects/EHR/fend_ehr/build/sqflite/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
